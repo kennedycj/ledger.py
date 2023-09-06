@@ -2,7 +2,7 @@
 
 from ledger import chart_of_accounts, print_accounts, parse_amount, \
                    root_account_name, is_valid_account_string, is_balanced, \
-                   account_string_components, account_tree_from_account_strings, \
+                   account_string_components, \
                    account_string_and_parents, balance_amounts, contains_account, \
                    join_columns, justify_columns, format_amount
 
